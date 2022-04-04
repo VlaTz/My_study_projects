@@ -7,9 +7,5 @@
 |[Отток клиентов банка](https://github.com/VlaTz/My_study_projects/tree/main/customer_outflow)|-|-|
 |[Определение выгодного тарифа для телеком компании](https://github.com/VlaTz/My_study_projects/tree/main/tariff_definition)|-|-|
 |[Модель для определения выгодного тарифа](https://github.com/VlaTz/My_study_projects/tree/main/recommendation_of_tariffs)|-|-|
-|[Изучение закономерностей, определяющих успешность игр](https://github.com/VlaTz/My_study_projects/tree/main/the_success_of_the_game)|-|Pandas
-numpy
-Matplotlib
-Seaborn
-SciPy|
+|[Изучение закономерностей, определяющих успешность игр](https://github.com/VlaTz/My_study_projects/tree/main/the_success_of_the_game)|-|Pandas, Numpy, Matplotlib, Seaborn, SciPy|
 
