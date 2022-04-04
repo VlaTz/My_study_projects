@@ -6,6 +6,6 @@
 |[Исследование надёжности заёмщиков](https://github.com/VlaTz/My_study_projects/tree/main/borrower_research)|Нужно разобраться, влияет ли семейное положение и количество детей клиента на факт погашения кредита в срок.|*Pandas, Matplotlib, Seaborn*|
 |[Отток клиентов банка](https://github.com/VlaTz/My_study_projects/tree/main/customer_outflow)|Спрогнозирована вероятность ухода клиента из банка в ближайшее время.| *Matplotlib, Numpy, Sklearn, машинное обучение*|
 |[Определение выгодного тарифа для телеком компании](https://github.com/VlaTz/My_study_projects/tree/main/tariff_definition)|На основе данных клиентов оператора сотовой связи проанализировать поведение клиентов и поиск оптимального тарифа|*Pandas, Numpy, SciPy, Matplotlib*|
-|[Модель для определения выгодного тарифа](https://github.com/VlaTz/My_study_projects/tree/main/recommendation_of_tariffs)|-|-|
+|[Модель для определения выгодного тарифа](https://github.com/VlaTz/My_study_projects/tree/main/recommendation_of_tariffs)|Построить модель для задачи классификации, которая выберет подходящий тариф.|*Pandas, Numpy, Sklearn, машинное обучение*|
 |[Изучение закономерностей, определяющих успешность игр](https://github.com/VlaTz/My_study_projects/tree/main/the_success_of_the_game)|-|*Pandas, Numpy, Matplotlib, Seaborn, SciPy*|
 
