@@ -9,4 +9,4 @@
 |[Модель для определения выгодного тарифа](https://github.com/VlaTz/My_study_projects/tree/main/recommendation_of_tariffs)|Построить модель для задачи классификации, которая выберет подходящий тариф.|*Pandas, Numpy, Sklearn, машинное обучение*|
 |[Изучение закономерностей, определяющих успешность игр](https://github.com/VlaTz/My_study_projects/tree/main/the_success_of_the_game)|Используя исторические данные о продажах компьютерных игр, оценки пользователей и экспертов, жанры и платформы, выявить закономерности, определяющие успешность игры|*Pandas, Numpy, Matplotlib, Seaborn, SciPy*|
 |[Определение наиболее выгодного региона нефтедобычи](https://github.com/VlaTz/My_study_projects/tree/main/location_for_the_boreholes)|На основе данных геологической разведки, выбрать район добычи нефти, при помощи модели машинного обучения|*Pandas, Scikit-learn, бутстреп, машинное обучение*|
-
+|[Восстановление золота из руды](https://github.com/VlaTz/My_study_projects/blob/main/gold%20recovery)|Спрогнозировать концентрацию золота при проведении процесса очистки золота|*Pandas, Scikit-learn, бутстреп, машинное обучение*|
