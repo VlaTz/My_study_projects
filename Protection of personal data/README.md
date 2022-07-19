@@ -17,7 +17,7 @@
 ## Используемые инструменты и навыки:
 - Python
 - Pandas
-- Numpy
+- Matplotlib
 - Машинное обучение
 - CatBoost
 - LightGBM
