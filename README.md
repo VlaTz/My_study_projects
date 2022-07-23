@@ -12,6 +12,6 @@
 |[Восстановление золота из руды](https://github.com/VlaTz/My_study_projects/tree/main/gold_recovery)|Спрогнозировать концентрацию золота при проведении процесса очистки золота|*Python, Pandas, Python, Matplotlib, NumPy, Scikit-learn, исследовательский анализ данных, машинное обучение, кастомные метрики*|
 |[Защита персональных данных клиентов](https://github.com/VlaTz/My_study_projects/tree/main/Protection%20of%20personal%20data)|Необходимо разработать такой метод преобразования данных, чтобы по ним было сложно восстановить персональную информацию|*Python, Pandas, Python, NumPy, Scikit-learn, линейная алгебра, машинное обучение*|
 |[Определение стоимости автомобилей](https://github.com/VlaTz/My_study_projects/tree/main/determining_the_cost%20of_cars)|Разработка системы рекомендации стоимости автомобиля на основе его описания|*Python, Pandas, Matplotlib, Seaborn, Scikit-learn, CatBoost, LightGBM, GridSearchCV, машинное обучение*|
-|[Прогнозирование заказов такси](https://github.com/VlaTz/My_study_projects/tree/main/forecasting_taxi_orders)|Прогнозирование почасового количества заказов такси|*Python, Pandas, Matplotlib, Seaborn, Scikit-learn, CatBoost, LightGBM, GridSearchCV, машинное обучениеб временные ряды*|
+|[Прогнозирование заказов такси](https://github.com/VlaTz/My_study_projects/tree/main/forecasting_taxi_orders)|Прогнозирование почасового количества заказов такси|*Python, Pandas, Matplotlib, Seaborn, Scikit-learn, CatBoost, LightGBM, GridSearchCV, машинное обучение, временные ряды*|
 
 
