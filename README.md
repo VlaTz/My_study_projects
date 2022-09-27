@@ -14,5 +14,6 @@
 |[Определение стоимости автомобилей](https://github.com/VlaTz/My_study_projects/tree/main/determining_the_cost%20of_cars)|Разработка системы рекомендации стоимости автомобиля на основе его описания|*Python, Pandas, Matplotlib, Seaborn, Scikit-learn, CatBoost, LightGBM, GridSearchCV, машинное обучение*|
 |[Прогнозирование заказов такси](https://github.com/VlaTz/My_study_projects/tree/main/forecasting_taxi_orders)|Прогнозирование почасового количества заказов такси|*Python, Pandas, Matplotlib, Seaborn, Scikit-learn, CatBoost, LightGBM, GridSearchCV, машинное обучение, временные ряды*|
 |[Классификация комментариев](https://github.com/VlaTz/My_study_projects/tree/main/NLP%20project)|Разработка модели, которая будет искать токсичные комментарии и отправлять их на модерацию.|*Python, Pandas, Scikit-learn, GridSearchCV, машинное обучение, лемматизация*|
+|[Предсказание температуры раславленного сплава](https://github.com/VlaTz/My_study_projects/tree/main/final_project)|Разработка модели, которая предскажет температуру расплавленного сплава для уменьшения издержек бизнеса.|*Python, Pandas, Scikit-learn, Optuna, машинное обучение, CatBoost*|
 
 
